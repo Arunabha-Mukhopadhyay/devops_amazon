@@ -1,2 +1,5 @@
 # Local report source — README is derived from it, no need to version the binary
 DEVOPS CA2_final.docx
+
+__pycache__/
+*.pyc
